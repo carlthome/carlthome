@@ -12,4 +12,4 @@ My name is Carl Thomé. I'm a computer scientist focused on machine learning and
 - Following interests is more important than having a career.
 
 #### 🍭 A little bit of gamification
-![Carl Thomé's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlthome&theme=github&show_icons=true&include_all_commits=true&count_private=true)
+![Carl Thomé's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlthome&theme=github&show_icons=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
