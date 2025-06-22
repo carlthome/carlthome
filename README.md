@@ -1,4 +1,4 @@
-# Welcome to my GitHub.com profile!
+# Welcome to my GitHub.com profile! 👋
 My name is Carl Thomé. I'm a computer scientist focused on machine learning and music technology. My primary interest in life is music and I'm a music information retrieval (MIR) enthusiast. I love digital signal processing (DSP) but I'm particularly interested in associative memory for artificial neural networks (ANNs). My current love is _differentiable programming_ and _self-supervised learning_. I mistakingly think I'd like to learn category theory. **Automatic differentiation go brrr.**
 
 ## 🤔 Some personal beliefs
@@ -11,16 +11,16 @@ My name is Carl Thomé. I'm a computer scientist focused on machine learning and
 - Formalisms are fun but secondary to intuition.
 - Following interests is more important than having a career.
 
-## What's important for me in my life
+## 🤹 What's important for me in my life
 Here's my reminder to stay true to what I want to do with the short time I have.
 
-### Actually important
+### ✅ Actually important
 - Creating things
 - Recording guitar once a month
 - Helping peers grow in their craft
 - Leaving things better than when we got them
 
-### Seems important (but actually is not)
+### ❌ Seems important (but actually is not)
 - Having things
 - Being a famous artist or recognized expert
 - Having a professional career
