@@ -11,6 +11,9 @@ My name is Carl Thomé. I'm a computer scientist focused on machine learning and
 - Formalisms are fun but secondary to intuition.
 - Following interests is more important than having a career.
 
+## 🍭 A little bit of gamification
+![Carl Thomé's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlthome&theme=github&show_icons=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ## 🤹 What's important for me in my life
 Here's my reminder to stay true to what I want to do with the short time I have.
 
@@ -25,6 +28,3 @@ Here's my reminder to stay true to what I want to do with the short time I have.
 - Being a famous artist or recognized expert
 - Having a professional career
 - Keeping up with social media networking
-
-## 🍭 A little bit of gamification
-![Carl Thomé's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlthome&theme=github&show_icons=true&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
